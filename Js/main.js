@@ -37,7 +37,7 @@ var sentences = [
   "a Code Learner. ",
   "a Customrom Developer. ",
   "a Web Designer. ",
-  "Arnab Pal.(Guddu😎) "
+  "Arnab Pal. "
 ]
   
 var counter = 0
